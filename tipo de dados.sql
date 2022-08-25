@@ -11,7 +11,7 @@ insert into DataNascimento values('Rafael Ferreira de Araujo','1996-16-10 23:59:
 -- datetime precisa invertar na data dia e ano, já o date não é necessário
 
 
-select * from DataNascimento
+--select * from DataNascimento
 
 --datettime é só pra data sem horario
 
